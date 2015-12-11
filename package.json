@@ -1,0 +1,24 @@
+{
+  "name": "jcs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoksato/JuniorCompraSkin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunoksato/JuniorCompraSkin/issues"
+  },
+  "homepage": "https://github.com/brunoksato/JuniorCompraSkin#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-awspublish": "^3.0.1",
+    "nconf": "^0.8.2"
+  }
+}
