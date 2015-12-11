@@ -1,0 +1,33 @@
+/**
+* Project : simply-countdown
+* File : demo
+* Date : 27/06/2015
+* Author : Vincent Loy <vincent.loy1@gmail.com>
+*/
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+.bg {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -moz-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -moz-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.bg h1 {
+  font-size: 60px;
+  font-family: 'Arial', sans-serif;
+  color: #ffffff;
+}
